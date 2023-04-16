@@ -12,3 +12,5 @@ I trained the model, character leveled, word level and byte-level by using the G
 It is demonstrated that byte-level works better than word level which works better than character level.
 The user can get all the trained model from the trained_models directory.
 
+The model has a total of around 50 million parameters. It is advisable to use a GPU if you want to train it from scratch.
+
