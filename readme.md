@@ -1,8 +1,10 @@
 
+
+## Transformer Writer
 As a big fan of classic literature, I decided to make one generator for it.
-In this repository, code is presented to train a simple light-weight decoder transformer that can generate realistic prompts of english text.
+In this repository, code is presented to train **a simple light-weight decoder transformer** that can generate realistic prompts of english text.
 I trained it on the works of the inimitable, Charles Dickens. One of the lines (that speaks for its power) the model generated was:
-       "it mattered me like the applause being reluctant in getting out his language accordingly as it seemed to hold him in the world"
+       __"it mattered me like the applause being reluctant in getting out his language accordingly as it seemed to hold him in the world"__
 
 In this repository, I also, examined the effect of different tokenization techniques on the model's performance.
 I trained the model, character leveled, word level and byte-level by using the GPT-2's tokenizer.
