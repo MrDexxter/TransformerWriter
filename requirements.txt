@@ -1,0 +1,5 @@
+ftfy
+pytorch
+nltk
+tqdm
+tiktoken
